@@ -1,0 +1,25 @@
+Pseudocode_activity Blue Team
+
+BK
+
+START
+
+1. Grab the alarm clock
+2. Set the alarm 
+a. Time (AM/PM)
+b. Ringer (song)
+
+3. Set the alarm (For correct Day/Date)
+
+when alarm rings at set time/Day:
+1. Click snooze
+a. Give 5 minutes of white noise/ song choice 
+b. Give 10 minutes of white noise/ song choice
+c. Give 15 minutes of white noise/ song choice
+
+repeat until alarm stopped:
+once more time is up: 
+a. Ask Again
+b. Stop the alarm
+
+2. Stop the alarm
